@@ -1,0 +1,9 @@
+C:\Program Files\all for one\All-For-One\all for one\all for one\bin\Debug\all for one.exe.config
+C:\Program Files\all for one\All-For-One\all for one\all for one\bin\Debug\all for one.exe
+C:\Program Files\all for one\All-For-One\all for one\all for one\bin\Debug\all for one.pdb
+C:\Program Files\all for one\All-For-One\all for one\all for one\obj\Debug\all for one.csproj.AssemblyReference.cache
+C:\Program Files\all for one\All-For-One\all for one\all for one\obj\Debug\all_for_one.Properties.Resources.resources
+C:\Program Files\all for one\All-For-One\all for one\all for one\obj\Debug\all for one.csproj.GenerateResource.cache
+C:\Program Files\all for one\All-For-One\all for one\all for one\obj\Debug\all for one.csproj.CoreCompileInputs.cache
+C:\Program Files\all for one\All-For-One\all for one\all for one\obj\Debug\all for one.exe
+C:\Program Files\all for one\All-For-One\all for one\all for one\obj\Debug\all for one.pdb
